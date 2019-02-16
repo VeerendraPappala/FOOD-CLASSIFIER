@@ -34,4 +34,4 @@ Pescado Zarandeado
 Everything you need to recreate this project is on the jupyter notebook. Everything was coded in Google Colab, because of its GPU. I uploaded the dataset to Google Drive, so you can download it directly. 
 
 
-You can read a paper implementing the same idea here: https://arxiv.org/ftp/arxiv/papers/1612/1612.00983.pdf
+You can read a paper implementing the same idea [here](https://arxiv.org/ftp/arxiv/papers/1612/1612.00983.pdf)
